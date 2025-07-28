@@ -9,16 +9,6 @@ A simple web-based currency converter that fetches real-time exchange rates and 
 - Country flags displayed for selected currencies
 - Responsive and user-friendly interface
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/mdehtemam/currencyXchange.git
-   cd currencyXchange
-   ```
-
-2. **Open `index.html` in your browser:**
-   - No build step is required. Just open the `index.html` file directly in your web browser.
 
 ## Project Structure
 
